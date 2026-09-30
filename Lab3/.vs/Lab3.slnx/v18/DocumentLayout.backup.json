@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\MZI_7_sem\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\data\\textfile2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:data\\textfile2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\\u043F\u0440\u0438\u043C\u0435\u0440.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:\u043F\u0440\u0438\u043C\u0435\u0440.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\run.cmd||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:run.cmd||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\rabincipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:rabincipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\rabinfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:rabinfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\blockencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:blockencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\data\\restored_textfile11||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:data\\restored_textfile11||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|m:\\mzi_7_sem\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD1CD4-88DC-72AD-795E-CB2D0849440D}|Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextFile2.txt",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\data\\TextFile2.txt",
+              "RelativeDocumentMoniker": "data\\TextFile2.txt",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\data\\TextFile2.txt",
+              "RelativeToolTip": "data\\TextFile2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-30T16:48:45.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u043F\u0440\u0438\u043C\u0435\u0440.txt",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\\u043F\u0440\u0438\u043C\u0435\u0440.txt",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0438\u043C\u0435\u0440.txt",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\\u043F\u0440\u0438\u043C\u0435\u0440.txt",
+              "RelativeToolTip": "\u043F\u0440\u0438\u043C\u0435\u0440.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-30T15:26:39.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RabinFile.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\RabinFile.cs",
+              "RelativeDocumentMoniker": "RabinFile.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\RabinFile.cs",
+              "RelativeToolTip": "RabinFile.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:18:41.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleMenu.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\ConsoleMenu.cs",
+              "RelativeToolTip": "ConsoleMenu.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowDwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:12:41.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlockEncoding.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\BlockEncoding.cs",
+              "RelativeDocumentMoniker": "BlockEncoding.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\BlockEncoding.cs",
+              "RelativeToolTip": "BlockEncoding.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:11:21.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\data\\TextFile1.txt",
+              "RelativeDocumentMoniker": "data\\TextFile1.txt",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\data\\TextFile1.txt",
+              "RelativeToolTip": "data\\TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-30T14:04:33.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrimeNumbers.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\PrimeNumbers.cs",
+              "RelativeDocumentMoniker": "PrimeNumbers.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\PrimeNumbers.cs",
+              "RelativeToolTip": "PrimeNumbers.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:19:01.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Run.cmd",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\Run.cmd",
+              "RelativeDocumentMoniker": "Run.cmd",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\Run.cmd",
+              "RelativeToolTip": "Run.cmd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2026-09-30T14:26:53.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "restored_TextFile11",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\data\\restored_TextFile11",
+              "RelativeDocumentMoniker": "data\\restored_TextFile11",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\data\\restored_TextFile11",
+              "RelativeToolTip": "data\\restored_TextFile11",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-30T14:11:17.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RabinCipher.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\RabinCipher.cs",
+              "RelativeDocumentMoniker": "RabinCipher.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\RabinCipher.cs",
+              "RelativeToolTip": "RabinCipher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:45:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:45:40.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\MZI_7_sem\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\data\\textfile2.txt.enc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:data\\textfile2.txt.enc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\data\\textfile2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:data\\textfile2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\belt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:belt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\cipherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:cipherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\cipherrequestprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:cipherrequestprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\cipherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:cipherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\blockcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:blockcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\data\\textfile1.txt.enc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:data\\textfile1.txt.enc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|m:\\mzi_7_sem\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B00A159-F0B3-75BC-79AF-57F45C378AF5}|Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextFile2.txt.enc",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\data\\TextFile2.txt.enc",
+              "RelativeDocumentMoniker": "data\\TextFile2.txt.enc",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\data\\TextFile2.txt.enc",
+              "RelativeToolTip": "data\\TextFile2.txt.enc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOrSURBVDhPjZS7bxxFHMc/Mzu7e77X7j18Pt\u002BRyAmOLwrGiiiQQAoUoYCCR4FQQpGGhgqJigohIUhBREWJKKj4D/gPKIKCIwXbOZxgx8rFVgzx3dm3vtvH7FDYjuO4MN9qRj/NR9/5vQSAm8lYV6989Pm77739HQCGQ4nn7sDC8v1Pvv3qm5\u002BjKEqPBIwxav8oU7B/kzO0mWCUGOIUKmOSUwWXPzZDHgaaxBhsEfNpq/LTjRtfc/369788fvzP6ClQCGEBKKWsl2dfer06\u002B9rlkZVDSZirOnzcKnCpMcafT0bshCmuJSm6Fq3JLJfPNd6vVf3\u002B6oO1O91uLzpgSgCTGhKd4EiDklDLSt6ZyvLqhMtQa7qjhDElcCXYlmSUGIqVCpfefOPLa9eufDY1dTr3FLi0tIRONeEoJG9DNQMzvsOFik3OFuQsQz0rqGRgPCPIK8FffYcf7uzy67BWyL3y1hcXL859qCwLANVsNi0BSAEfTPs0TzWwhEEgALhQGePHyy4pBmEk6X6NjBCkBjY6Y4XfHaeOEKrX62npeZ62LAvXzWBJgy0NaZIQBAOiaMTu7g4mCZFpTDTagSSEcIiVRGQluFLiuq6QUuL7vpEAUkqUUkCKMZrVByssLCywsfGIdrvN9s42nc4jFhfvsr6\u002BTnt5mc3NTYzRe99UCinlYVEOlRKGQ3q9PlEUEkUxg8GAOI7Y2uoSRSO0jgmCgH6/i9bJ0edHgXvda1kGYwyO4\u002BA4NkmSkKYaY8C2XWxbEQQBcRxjjDnW9ccc2rZibu48rdZZ6vVxZmdb\u002BH6e2dkXabWmqNdrzM2dp1QqABo4OizPAQ1aa\u002B7d\u002B5vFxbtsbKyzurrGcBjQ6Wzw8GGHXq/L/furdDrrhOHhkBzoGDCKQgaDXbTWJElMv79NEAQ4jmI4DPdzGrO19QSt45MdOo6iXPYYHy9TLObxvDy2LdFak8nY5HJjeF6B6enTuO5eZzyrY0DLgjNn6lSrRQqFDNPTL1Aq5anVikxO\u002BlQq\u002Bf14GceRJxXFoHXCzZsL3Lq1wNraI\u002Bbnl\u002Bj3t1lZWWdlpcPm5r/cvr1Et9vdh53gMI4TstkM5bJHJuMgpSIchVTKHmlqcF2F4zgMh4P9HJ7g0HEsJiZKNJtVfL9AozFOLpvDpCnVio8QknLZo1QqIgQnOQQpBY1GlWZzAs/LMzNzilK5QK1e5MzZBr5f4Ny50zQakyhl7a30Z0wq9ja3BqL5\u002BbaYn28/g/9/MpjowOp/uG2Q2oDdp3kAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-09-30T16:44:36.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFile2.txt",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\data\\TextFile2.txt",
+              "RelativeDocumentMoniker": "data\\TextFile2.txt",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\data\\TextFile2.txt",
+              "RelativeToolTip": "data\\TextFile2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-30T16:43:50.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CipherRequestPrompt.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\CipherRequestPrompt.cs",
+              "RelativeDocumentMoniker": "CipherRequestPrompt.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\CipherRequestPrompt.cs",
+              "RelativeToolTip": "CipherRequestPrompt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:10:32.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NuGet.Config",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\NuGet.Config",
+              "RelativeDocumentMoniker": "NuGet.Config",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\NuGet.Config",
+              "RelativeToolTip": "NuGet.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-30T15:56:49.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextFile1.txt.enc",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\data\\TextFile1.txt.enc",
+              "RelativeDocumentMoniker": "data\\TextFile1.txt.enc",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\data\\TextFile1.txt.enc",
+              "RelativeToolTip": "data\\TextFile1.txt.enc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOrSURBVDhPjZS7bxxFHMc/Mzu7e77X7j18Pt\u002BRyAmOLwrGiiiQQAoUoYCCR4FQQpGGhgqJigohIUhBREWJKKj4D/gPKIKCIwXbOZxgx8rFVgzx3dm3vtvH7FDYjuO4MN9qRj/NR9/5vQSAm8lYV6989Pm77739HQCGQ4nn7sDC8v1Pvv3qm5\u002BjKEqPBIwxav8oU7B/kzO0mWCUGOIUKmOSUwWXPzZDHgaaxBhsEfNpq/LTjRtfc/369788fvzP6ClQCGEBKKWsl2dfer06\u002B9rlkZVDSZirOnzcKnCpMcafT0bshCmuJSm6Fq3JLJfPNd6vVf3\u002B6oO1O91uLzpgSgCTGhKd4EiDklDLSt6ZyvLqhMtQa7qjhDElcCXYlmSUGIqVCpfefOPLa9eufDY1dTr3FLi0tIRONeEoJG9DNQMzvsOFik3OFuQsQz0rqGRgPCPIK8FffYcf7uzy67BWyL3y1hcXL859qCwLANVsNi0BSAEfTPs0TzWwhEEgALhQGePHyy4pBmEk6X6NjBCkBjY6Y4XfHaeOEKrX62npeZ62LAvXzWBJgy0NaZIQBAOiaMTu7g4mCZFpTDTagSSEcIiVRGQluFLiuq6QUuL7vpEAUkqUUkCKMZrVByssLCywsfGIdrvN9s42nc4jFhfvsr6\u002BTnt5mc3NTYzRe99UCinlYVEOlRKGQ3q9PlEUEkUxg8GAOI7Y2uoSRSO0jgmCgH6/i9bJ0edHgXvda1kGYwyO4\u002BA4NkmSkKYaY8C2XWxbEQQBcRxjjDnW9ccc2rZibu48rdZZ6vVxZmdb\u002BH6e2dkXabWmqNdrzM2dp1QqABo4OizPAQ1aa\u002B7d\u002B5vFxbtsbKyzurrGcBjQ6Wzw8GGHXq/L/furdDrrhOHhkBzoGDCKQgaDXbTWJElMv79NEAQ4jmI4DPdzGrO19QSt45MdOo6iXPYYHy9TLObxvDy2LdFak8nY5HJjeF6B6enTuO5eZzyrY0DLgjNn6lSrRQqFDNPTL1Aq5anVikxO\u002BlQq\u002Bf14GceRJxXFoHXCzZsL3Lq1wNraI\u002Bbnl\u002Bj3t1lZWWdlpcPm5r/cvr1Et9vdh53gMI4TstkM5bJHJuMgpSIchVTKHmlqcF2F4zgMh4P9HJ7g0HEsJiZKNJtVfL9AozFOLpvDpCnVio8QknLZo1QqIgQnOQQpBY1GlWZzAs/LMzNzilK5QK1e5MzZBr5f4Ny50zQakyhl7a30Z0wq9ja3BqL5\u002BbaYn28/g/9/MpjowOp/uG2Q2oDdp3kAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-09-30T13:19:05.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\data\\TextFile1.txt",
+              "RelativeDocumentMoniker": "data\\TextFile1.txt",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\data\\TextFile1.txt",
+              "RelativeToolTip": "data\\TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-30T13:17:39.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CipherService.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\CipherService.cs",
+              "RelativeDocumentMoniker": "CipherService.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\CipherService.cs",
+              "RelativeToolTip": "CipherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:11:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Belt.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\Belt.cs",
+              "RelativeDocumentMoniker": "Belt.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\Belt.cs",
+              "RelativeToolTip": "Belt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T06:07:15.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CipherRequest.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\CipherRequest.cs",
+              "RelativeDocumentMoniker": "CipherRequest.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\CipherRequest.cs",
+              "RelativeToolTip": "CipherRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T06:07:03.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlockCipher.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\BlockCipher.cs",
+              "RelativeDocumentMoniker": "BlockCipher.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\BlockCipher.cs",
+              "RelativeToolTip": "BlockCipher.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T06:06:56.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\MZI_7_sem\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "M:\\MZI_7_sem\\Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T06:05:34.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
